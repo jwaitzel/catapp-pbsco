@@ -8,12 +8,12 @@ I added some mockup data (a json and an image) to prevent doing too many request
 
 I work in blocks of 25 minutes to improve my focus, and I defined the deliverables for each block as follow.
 
-1- Setup and API manager
-2- List View
-3- Reserve cat View
-4- Tags filter
-5- Info app view
-6- Wrap up
+1. Setup and API manager
+2. List View
+3. Reserve cat View
+4. Tags filter
+5. Info app view
+6. Wrap up
 
 https://user-images.githubusercontent.com/6287402/201125467-aa485f37-4feb-410a-8c7a-449092bac51c.mp4
 
