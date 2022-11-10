@@ -4,7 +4,7 @@
 
 Hello, this is my submission for *iOS Engineer Test Task*. My idea was to do an app to rent cats by the day.
 
-I'm using the /api/cats endpoint to get the list of cats, with a random initial value in the *skip* parameter so it's different every time. Then the skip is used for the infinite scroll. With the id of the cat, I'm getting the image with the endpoint /cat/id and also using the tags parameter when the user select a tag on the top list.
+I'm using the `/api/cats` endpoint to get the list of cats, with a random initial value in the *skip* parameter so it's different every time. Then the skip is used for the infinite scroll. With the id of the cat, I'm getting the image with the endpoint `/cat/id` and also using the tags parameter when the user select a tag on the top list.
 I added some mockup data (a json and an image) to prevent doing too many request when I was working on the UI.
 
 I split my work in blocks of 25 minutes to improve my focus, and I defined the deliverables for each block as follow.
